@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GirlsProfileManager", "GirlsProfileManager\GirlsProfileManager.csproj", "{BAAC68D0-68B0-4D44-AABA-C4044489AF7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileManager", "ProfileManager\ProfileManager.csproj", "{BAAC68D0-68B0-4D44-AABA-C4044489AF7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
